@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHvJFssZYcRKg/profile-displaybackgroundimage-shrink_350_1400/0/1710007817364?e=1715212800&v=beta&t=lFLEPvT9ufeu8LDHSuEl9i-0Uz3_7VX5jbWt0LyY44E)
 
-<!--
-**Rahim-Ashraf/Rahim-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mern stack web developer, focused on front end development.
+I make error free custom coded website using  REACT, JavaScript, Node, Express, HTML, CSS etc.
+With 100% client satisfaction.
 
-Here are some ideas to get you started:
+Skills:  REACT / JavaScript /Node/Express/ HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rahim-ashraf-35098a250//)  
+
