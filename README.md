@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Rahim
-#### I am GitHub Readme Generator's creator
+#### I am a Junior web developer
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHvJFssZYcRKg/profile-displaybackgroundimage-shrink_350_1400/0/1710007817364?e=1715212800&v=beta&t=lFLEPvT9ufeu8LDHSuEl9i-0Uz3_7VX5jbWt0LyY44E)
 
-I am a Mern stack web developer, focused on front end development.
-I make error free custom coded website using  REACT, JavaScript, Node, Express, HTML, CSS etc.
+I am a Junior web developer, focused on front end development.
+I make error free custom coded website using  REACT, Tailwind CSS, JavaScript, Node, Express, HTML, CSS etc.
 With 100% client satisfaction.
 
-Skills:  REACT / JavaScript /Node/Express/ HTML / CSS
+Skills:  REACT / JavaScript / Tailwind CSS / Node.js / Express.js / Mongodb / JWT / HTML / CSS
 
 
 
