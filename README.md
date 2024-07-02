@@ -9,7 +9,7 @@
 </p>
 </br>
 
-## :computer: Technologies I Use
+## :computer: Familiar Technologies
 
 <br>
 <p align="center">
