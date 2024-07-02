@@ -13,18 +13,18 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://i.ibb.co/hZSNsDG/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://i.ibb.co/0n2hM8r/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img width="60px"  src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img width="60px" src="https://i.ibb.co/hZSNsDG/css.png"/>
+<img width="60px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img width="60px" src="https://i.ibb.co/0n2hM8r/react.png"/>
+<img width="60px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/zVJrTwb/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://i.ibb.co/nPbnZh9/express-js.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-<img src="https://i.ibb.co/0CMDWxy/jwt.png"/>
+<img width="60px" src="https://i.ibb.co/zVJrTwb/firebase.png"/>
+<img width="60px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img width="60px" src="https://i.ibb.co/nPbnZh9/express-js.png"/>
+<img width="60px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img width="60px" src="https://i.ibb.co/0CMDWxy/jwt.png"/>
 </p>
 <br/>
 
