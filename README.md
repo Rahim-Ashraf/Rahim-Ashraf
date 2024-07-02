@@ -34,9 +34,9 @@
 
 I am a passionate web developer. I build dynamic, responsive and featured websites. I specialize in front-end development with a keen interest in back-end technologies.
 
-### Notable Projects:
-- [Weather App](https://github.com/Rahim-Ashraf/dream-dwellings-client): A React-based web application that is a real estate project.
-- [Data Analysis Tool](https://github.com/Rahim-Ashraf/dream-dwellings-server): Server side of that real estate project build with Express.JS and MongoDB.
+### Notable Project:
+- [Dream-Dwellings](https://github.com/Rahim-Ashraf/dream-dwellings-client): A React-based web application that is a real estate project.
+- [Dream-Dwellings-server](https://github.com/Rahim-Ashraf/dream-dwellings-server): Server side of that real estate project build with Express.JS and MongoDB.
 
 ### Interests:
 - 💻 Software engineering
