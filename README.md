@@ -30,8 +30,16 @@
 <br/>
 
 ## :eyes: Overview 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+## Hi there, I'm Abdur Rahim! 👋
+
+I am a passionate web developer. I build dynamic, responsive and featured websites. I specialize in front-end development with a keen interest in back-end technologies.
+
+### Notable Projects:
+- [Weather App](https://github.com/Rahim-Ashraf/dream-dwellings-client): A React-based web application that is a real estate project.
+- [Data Analysis Tool](https://github.com/Rahim-Ashraf/dream-dwellings-server): Server side of that real estate project build with Express.JS and MongoDB.
+
+### Interests:
+- 💻 Software engineering
+- 🔍 Competitive programming
+- 💻 Web development
 <br />
