@@ -31,7 +31,7 @@
 ## :eyes: Overview 
 ## Hi there, I'm Abdur Rahim! 👋
 
-I am a passionate web developer. I build dynamic, responsive and featured websites. I specialize in front-end development with a keen interest in back-end technologies.
+I am a dedicated and enthusiastic web developer specializing in creating featured, responsive, and user-friendly front-end interfaces. I specialize in front-end development with a keen interest in back-end technologies. 💡 I am very passionate about advanced web development and software engineering and I am constantly improving my skills by learning more.
 
 ### Notable Project:
 - [Dream-Dwellings](https://github.com/Rahim-Ashraf/dream-dwellings-client): A React-based web application that is a real estate project.
