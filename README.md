@@ -2,6 +2,21 @@
 <img src="https://i.ibb.co/h7Mt1Pg/Rahim-Web-developer.gif" />
 </a> 
 
+## :eyes: Overview 
+## Hi there, I'm Abdur Rahim! 👋
+
+I am a dedicated and enthusiastic web developer specializing in creating featured, responsive, and user-friendly front-end interfaces. I specialize in front-end development with a keen interest in back-end technologies. 💡 I am very passionate about advanced web development and software engineering and I am constantly improving my skills by learning more.
+
+### Notable Project:
+- [Dream-Dwellings](https://github.com/Rahim-Ashraf/dream-dwellings-client): A React-based web application that is a real estate project.
+- [Dream-Dwellings-server](https://github.com/Rahim-Ashraf/dream-dwellings-server): Server side of that real estate project build with Express.JS and MongoDB.
+
+### Interests:
+- 💻 Software engineering
+- 🔍 Competitive programming
+- 💻 Web development
+<br />
+
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
@@ -27,18 +42,3 @@
 <img width="60px" src="https://i.ibb.co/0CMDWxy/jwt.png"/>
 </p>
 <br/>
-
-## :eyes: Overview 
-## Hi there, I'm Abdur Rahim! 👋
-
-I am a dedicated and enthusiastic web developer specializing in creating featured, responsive, and user-friendly front-end interfaces. I specialize in front-end development with a keen interest in back-end technologies. 💡 I am very passionate about advanced web development and software engineering and I am constantly improving my skills by learning more.
-
-### Notable Project:
-- [Dream-Dwellings](https://github.com/Rahim-Ashraf/dream-dwellings-client): A React-based web application that is a real estate project.
-- [Dream-Dwellings-server](https://github.com/Rahim-Ashraf/dream-dwellings-server): Server side of that real estate project build with Express.JS and MongoDB.
-
-### Interests:
-- 💻 Software engineering
-- 🔍 Competitive programming
-- 💻 Web development
-<br />
