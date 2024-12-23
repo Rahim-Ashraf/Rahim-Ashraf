@@ -34,7 +34,7 @@ I am a dedicated and enthusiastic web developer specializing in creating feature
 <img width="60px" src="https://i.ibb.co/0n2hM8r/react.png"/>
 <img width="60px" src="https://i.ibb.co/JCmmSyg/tailwind-css.png"/>
 </p>
-<p align="center">
+<p align="right">
 <img width="60px" src="https://i.ibb.co/zVJrTwb/firebase.png"/>
 <img width="60px" src="https://i.ibb.co/nQ4BJHw/icons8-node-js-144.png"/>
 <img width="60px" src="https://i.ibb.co/nPbnZh9/express-js.png"/>
