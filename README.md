@@ -28,17 +28,19 @@ I am a dedicated and enthusiastic web developer specializing in creating feature
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahim-Ashraf&show_icons=true&locale=en" alt="Rahim-Ashraf" /></p>
 <br>
 <p align="right">
+<img width="60px"  src="https://i.ibb.co.com/VgMSX1b/NextJS.png"/>
+<img width="60px"  src="https://i.ibb.co/0n2hM8r/react.png"/>
+<img width="60px"  src="https://i.ibb.co.com/wSf8rQw/TS.png"/>
+<img width="60px"  src="https://i.ibb.co.com/zr7R7CN/JS.png"/>
+<img width="60px"  src="https://i.ibb.co/JCmmSyg/tailwind-css.png"/>
 <img width="60px"  src="https://i.ibb.co/M80DXMf/html.png"/>
 <img width="60px" src="https://i.ibb.co/hZSNsDG/css.png"/>
-<img width="60px" src="https://i.ibb.co/qn3dK1J/js.png"/>
-<img width="60px" src="https://i.ibb.co/0n2hM8r/react.png"/>
-<img width="60px" src="https://i.ibb.co/JCmmSyg/tailwind-css.png"/>
 </p>
 <p align="right">
-<img width="60px" src="https://i.ibb.co/zVJrTwb/firebase.png"/>
 <img width="60px" src="https://i.ibb.co/nQ4BJHw/icons8-node-js-144.png"/>
 <img width="60px" src="https://i.ibb.co/nPbnZh9/express-js.png"/>
 <img width="60px" src="https://i.ibb.co/q5xF0Hj/mongodb.png"/>
+<img width="60px" src="https://i.ibb.co.com/xFKZnV5/Mongoose.png"/>
 <img width="60px" src="https://i.ibb.co/0CMDWxy/jwt.png"/>
 </p>
 <br/>
