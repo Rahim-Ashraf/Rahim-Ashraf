@@ -25,7 +25,7 @@ I am a dedicated and enthusiastic web developer specializing in creating feature
 </br>
 
 ## :computer: Familiar Technologies
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahim-Ashraf&show_icons=true&theme=radical" alt="Rahim-Ashraf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahim-Ashraf&show_icons=true&locale=en&theme=tokyonight" alt="Rahim-Ashraf" /></p>
 <br>
 <p align="right">
 <img width="60px"  src="https://i.ibb.co.com/VgMSX1b/NextJS.png"/>
